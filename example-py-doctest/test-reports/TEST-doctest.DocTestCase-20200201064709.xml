@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file="doctest.py" name="doctest.DocTestCase-20200201064709" skipped="0" tests="6" time="0.006" timestamp="2020-02-01T06:47:09">
+	<testcase classname="" file="com/automationpanda/example/calc_func.py" line="8" name="add" time="0.004" timestamp="2020-02-01T06:47:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="" file="com/automationpanda/example/calc_func.py" line="55" name="divide" time="0.001" timestamp="2020-02-01T06:47:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="" file="com/automationpanda/example/calc_func.py" line="75" name="maximum" time="0.000" timestamp="2020-02-01T06:47:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="" file="com/automationpanda/example/calc_func.py" line="94" name="minimum" time="0.000" timestamp="2020-02-01T06:47:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="" file="com/automationpanda/example/calc_func.py" line="40" name="multiply" time="0.000" timestamp="2020-02-01T06:47:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+	<testcase classname="" file="com/automationpanda/example/calc_func.py" line="23" name="subtract" time="0.000" timestamp="2020-02-01T06:47:09">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

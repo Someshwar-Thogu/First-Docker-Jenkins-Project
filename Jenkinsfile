@@ -13,5 +13,10 @@ pipeline {
             echo "${env.WORKSPACE}"
          }
       }
+      stage('Building Docker') {
+         steps {
+            sh 'docker build -t Somesh example-py-doctest/'
+         }
+      }
     }
 }

@@ -10,6 +10,7 @@ pipeline {
       stage('ls command') {
          steps {
             sh 'ls'
+            echo ${env.WORKSPACE}
          }
       }
     }

@@ -15,7 +15,7 @@ pipeline {
       }
       stage('Building Docker') {
          steps {
-            sh 'docker build -t Somesh example-py-doctest/'
+            sh "docker build -t Somesh -f ${env.WORKSPACE}/example-py-doctest/Dockerfile ${env.WORKSPACE}/example-py-doctest/"
          }
       }
     }
